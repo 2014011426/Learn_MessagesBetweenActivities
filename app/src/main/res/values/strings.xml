@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Learn_MessagesBetweenActivities</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_first">First</string>
+    <string name="title_activity_second">Second</string>
+</resources>
